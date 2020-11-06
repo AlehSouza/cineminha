@@ -1,4 +1,5 @@
-# cineminha
+# Bem vindo ao Cineminha
+<img src="https://i.imgur.com/WVIn2Wb.png"/>
 
 ## Project setup
 ```
